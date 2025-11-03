@@ -47,10 +47,6 @@
             </button>
         </form>
 
-        <div class="mt-4 text-center text-sm">
-            <a href="#" class="text-blue-500 hover:underline">Forgot your password?</a>
-        </div>
-
         <p class="mt-4 text-center text-sm">Don't have an account?
             <a href="/register" class="text-blue-500 hover:underline">Sign up!</a>
         </p>
